@@ -1,4 +1,4 @@
-namespace ClassConstructor;
+namespace ClassFeatures.ClassConstructor;
 
 public class ClassConstructor(string firstName, string lastName)
 {
